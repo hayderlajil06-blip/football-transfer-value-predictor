@@ -19,4 +19,6 @@ Thumbs.db
 *.egg-info/
 
 # Raw datasets
-data/*git status
+data/*
+!data/
+!data/player_lookup.csv
