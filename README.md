@@ -2,6 +2,8 @@
 
 A machine-learning project for predicting football player market values and supporting player scouting.
 
+🔗 **Live Demo:** https://football-transfer-value-predictor-nr5zuglmflfnvfuneq4cex.streamlit.app/
+
 ## 📌 Project Overview
 
 This project uses historical football player data to predict a player's market value for the following season.
